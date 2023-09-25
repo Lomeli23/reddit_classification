@@ -2,7 +2,7 @@
 
 ## Subreddit Classification Modeling Summary
 
-### This project's goal was to only use Reddit's API to web-scrape data from 2 different subreddits and use the content of each post or the title of each post to predict which subreddit it came from using a Natural Language Processing model.
+### This project's goal was to use Reddit's API to web-scrape data from 2 different subreddits and use the content of each post or the title of each post to predict which subreddit it came from using a Natural Language Processing model.
 
 
 ### Data Collection, Cleaning, and Natural Language Processing
